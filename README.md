@@ -4,4 +4,19 @@ ______________________________
 
 # Curso Digital: Git, versionamento
 
-## Salvando alterações no Git
+## Comandos
+
+### adding archives as already changed
+<code>git add .\archiveName</code>
+
+### comiting archives, after adding them
+<code>git comit -m "explaning alterations"</code>
+
+### submitting comits to the git repository
+<code>git push folder</code>
+
+### seeing folders
+<code>git remote</code>
+
+### seeing logs
+<code>git log</code>
