@@ -17,6 +17,9 @@ ______________________________
 or
 <code>git push</code> -> this will push everything
 
+### command pull? (do not know what this does yet)
+<code>git pull</code>
+
 ### seeing folders
 <code>git remote</code>
 
