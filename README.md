@@ -39,3 +39,12 @@ or
 
 ### changing from one branch to another
 <code>git checkout other_branch</code>
+
+### seeing which branch you are and all the other branches that exist
+<code>git branch</code>
+
+### merging branches
+first you need to go to the master/main branch using:
+<code>git checkout main_branch</code>
+</br>then:
+<code>git merge other_branch</code>
