@@ -20,6 +20,9 @@ or
 ### merging, or pulling files from the git repository (kinda completing the local folder)
 <code>git pull</code>
 
+### instead of merging the filesd with local right awy, you can see the changes before
+<code>git fetch</code>
+
 ### seeing folders
 <code>git remote</code>
 
