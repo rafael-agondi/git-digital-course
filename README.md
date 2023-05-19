@@ -14,6 +14,8 @@ ______________________________
 
 ### submitting comits to the git repository
 <code>git push folder</code>
+or
+<code>git push</code> -> this will push everything
 
 ### seeing folders
 <code>git remote</code>
