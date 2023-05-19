@@ -6,10 +6,10 @@ ______________________________
 
 ## Comandos
 
-### adding archives as already changed
+### adding files as already changed
 <code>git add .\archiveName</code>
 
-### comiting archives, after adding them
+### comiting files, after adding them
 <code>git comit -m "explaning alterations"</code>
 
 ### submitting comits to the git repository
@@ -17,7 +17,7 @@ ______________________________
 or
 <code>git push</code> -> this will push everything
 
-### command pull? (do not know what this does yet)
+### merging, or pulling files from the git repository (kinda completing the local folder)
 <code>git pull</code>
 
 ### seeing folders
