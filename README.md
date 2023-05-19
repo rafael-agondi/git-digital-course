@@ -30,4 +30,12 @@ or
 <code>git log</code>
 
 ### comparing files, before and after
-<code>git diff file or folder</code>
+<code>git diff file_or_folder</code>
+</br>
+<code>git log --oneline --decorate</code> -> shows where you're headded, wich baranch you're coding into
+
+### creating a new brach
+<code>git branch new_branch</code>
+
+### changing from one branch to another
+<code>git checkout other_branch</code>
