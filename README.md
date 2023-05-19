@@ -28,3 +28,6 @@ or
 
 ### seeing logs
 <code>git log</code>
+
+### comparing files, before and after
+<code>git diff file or folder</code>
